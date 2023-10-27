@@ -1,2 +1,3 @@
 # Jinnie-Crafts
-Read  our new projects on https://spyderinc.github.io
+Read  our new projects on github.com/spyderinc
+
